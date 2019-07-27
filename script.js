@@ -1,4 +1,3 @@
-function scrivi(){
-  alert('ciao bello mi ha cliccato');
-  console.log('attivo ciao mondo');
+function changeColor(){
+  document.getElementById('par').style.backgroundColor = 'red';
 }
