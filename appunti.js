@@ -1,0 +1,25 @@
+//tipi di output
+/*
+alert(Ciao); (pop-up)
+console.log(Ciao); (Scrive nella console)
+document.getElementById('par').innerHTML = Ciao; (Scrive dentro il paragrafo par)
+*/
+
+//varaibili
+var variabile = 10 + 20;
+var v4riabile;
+var _variabile;
+var $varibile;
+//var 4variabile; (non si puo chiamare una variabile con un numero come prima lettera)
+
+//particolari
+/*== uguaglianza il valore è lo stesso inidifferentemente dal dipo di dato (5 == '5' true)
+=== identicità il valore e il tipo sono uguali (5 === '5' false)
+
+var ternario = 5 > 10 ? (se vero) 'true' : (altrimenti) 'false';
+
+//type operator
+var oggetto = {};
+typeof nomeVariabile   ritorna cosa c'è dentro una variabile
+oggetto istanceof Array   ritrna false perchè un oggetto non deriva da array
+*/
